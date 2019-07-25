@@ -85,14 +85,14 @@
 ---
 
    - HTML要素
-	- ブロックレベル：前後が改行され、縦に積みあがる(header, section, article、h1~h6、p、ul,olなど）
-	- インライン：前後で改行され、テキスト内に流し込まれる(br要素、strong要素、em要素、img要素、input要素、label要素、span要素、a要素など)
+      - ブロックレベル：前後が改行され、縦に積みあがる(header, section, article、h1~h6、p、ul,olなど）
+      - インライン：前後で改行され、テキスト内に流し込まれる(br要素、strong要素、em要素、img要素、input要素、label要素、span要素、a要素など)
 	
    - CSSの基本書式
-	- HTMLの外観を制御する言葉
-	- 書くHTMLタグに直接記述する
-	- HTMLファイルのhead内に埋め込む
-	- 外部の専用CSSファイルに記述する	
+      - HTMLの外観を制御する言葉
+      - 書くHTMLタグに直接記述する
+      - HTMLファイルのhead内に埋め込む
+      - 外部の専用CSSファイルに記述する	
 
 
 
