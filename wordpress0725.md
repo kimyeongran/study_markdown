@@ -79,12 +79,12 @@
 
 | 関数 | 内容 | 
 |---|---|
-| <?php get_header();?> | header.phpを読み込む | 
-| <?php get_footer();?> | footer.phpを読み込む |
-| <?php get_sidebar();?> | sidebar.phpを読み込む |
-| <?php get_search_form();?> | 検索フォームを読み込む |
-| <?php get_template_part();?> | 他のテンプレートを読み込む |
-| <?php comments_template();?> | comments.phpを読み込む |
+| `<?php get_header();?> | header.phpを読み込む | 
+| `<?php get_footer();?> | footer.phpを読み込む |
+| `<?php get_sidebar();?> | sidebar.phpを読み込む |
+| `<?php get_search_form();?> | 検索フォームを読み込む |
+| `<?php get_template_part();?> | 他のテンプレートを読み込む |
+| `<?php comments_template();?> | comments.phpを読み込む |
 
 ---
 
